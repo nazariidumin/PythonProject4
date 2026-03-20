@@ -1,1 +1,2 @@
-print(123)
+def mult_of_two_num (a, b):
+    return(a * b)
